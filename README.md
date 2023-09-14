@@ -1,6 +1,6 @@
 # Hey there, I'm senul ranasinghe
 
-- I'm a blockchain enthusiast. Especially EVM related stuff.
+- Blockchain enthusiast. Especially EVM related stuff.
 - Co-Founder of <a href="https://szeeta.com" target="_blank">Szeeta</a>
 - And I realy enjoy working with De-Fi and NFT contracts.
 - Also have sound experience with js/ts frameworks.
