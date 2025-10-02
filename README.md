@@ -1,10 +1,11 @@
 # Hey there, I'm senul ranasinghe
 
-- Blockchain enthusiast. Especially EVM related stuff.
-- Co-Founder of <a href="https://szeeta.com" target="_blank">Szeeta</a>
-- And I realy enjoy working with De-Fi and NFT contracts.
-- Also have sound experience with js/ts frameworks.
-- Also have worked with python, java and currently learning rust.
+- Passionated software developer.
+- Co-Founder of <a href="https://kernel70.com" target="_blank">Kernel 70</a>
+- And I realy enjoy working back-emd heavy application.
+- Also have sound experience in full stack development with go and js/ts frameworks.
+- Also love workign with blockchain stuff, especially EVM.
+- Also have worked with python, java.
 
 <br/>
 <br/>
@@ -16,8 +17,10 @@
 <br/>
 
 ## Languages that I work with
-
+ <!-- go -->
 <div style="display: inline_block"><br>
+ <img height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+ 
  <!-- solidity -->
  <img height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,10 +74,6 @@
  
  <!-- openzeppalin -->
  <img height="60" align="center" src="./images/oz.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
- <!-- truffle -->
- <img height="60" align="center" src="./images/truffle.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
  <!-- foundry -->
